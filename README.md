@@ -8,17 +8,25 @@
   </a>
 </p>
 
+<table>
+  <tr>
+    <td width="65%" valign="top">
+
 ### About me
-<p align="right">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V1ZTZ5eWFhbnIxZTExYmF2Z3V6cTh5emJ4b3hjZHBzNDFmM2ptMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4PkFXkfTeEKqGBBsC/giphy.gif" width="350" />
-</p>
 
 - Hi everyone, I’m Saidan, from Escuela Superior de Cómputo (ESCOM), IPN – Mexico 🗻  
 - I am currently an Artificial Intelligence Engineering student 👨‍🎓  
 - I aim to help others by solving everyday problems through AI implementations that save time and resources by freelancing 👨‍💻  
-- I’m not only focused on the technical side, but also on developing communication and sales skills 🚀
-- C1 English Level
+- I’m not only focused on the technical side, but also on developing communication and sales skills 🚀  
+- C1 English Level  
 - Welcome to my GitHub 🍧  
+
+    </td>
+    <td width="35%" valign="top">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V1ZTZ5eWFhbnIxZTExYmF2Z3V6cTh5emJ4b3hjZHBzNDFmM2ptMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4PkFXkfTeEKqGBBsC/giphy.gif" width="250" />
+    </td>
+  </tr>
+</table> 
 
 ### Social Networks 💻
 - LinkedIn 🌐
