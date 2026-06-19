@@ -64,12 +64,9 @@
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=My-Heart&theme=github_dark_dimmed)](https://github.com/Aurorp1g/My-Heart)
 <br>
 -->
-<div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Right_Side.gif" width="300" height="auto" /></div>
-
 ![footer](footer.png)
 ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 
 -----
-Credits: [Aurorp1g](https://github.com/Aurorp1g)
 
 Last Edited on: 18/06/2026
