@@ -17,7 +17,11 @@
 - C1 English Level  
 - Welcome to my GitHub 🍧  
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V1ZTZ5eWFhbnIxZTExYmF2Z3V6cTh5emJ4b3hjZHBzNDFmM2ptMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4PkFXkfTeEKqGBBsC/giphy.gif" width="220" />
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V1ZTZ5eWFhbnIxZTExYmF2Z3V6cTh5emJ4b3hjZHBzNDFmM2ptMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4PkFXkfTeEKqGBBsC/giphy.gif" width="300" />
+
+
+
+
 ### Social Networks 💻
 - LinkedIn 🌐
   https://www.linkedin.com/in/adanis369/
