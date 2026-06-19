@@ -50,7 +50,7 @@
 -->
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Right_Side.gif" width="300" height="auto" /></div>
 
-![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
+![footer](footer.png)
 ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 
 -----
