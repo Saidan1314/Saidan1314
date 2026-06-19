@@ -17,13 +17,12 @@
 - C1 English Level  
 - Welcome to my GitHub 🍧  
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V1ZTZ5eWFhbnIxZTExYmF2Z3V6cTh5emJ4b3hjZHBzNDFmM2ptMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4PkFXkfTeEKqGBBsC/giphy.gif" width="300" />
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V1ZTZ5eWFhbnIxZTExYmF2Z3V6cTh5emJ4b3hjZHBzNDFmM2ptMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4PkFXkfTeEKqGBBsC/giphy.gif" width="350" />
 
 
 
 
-### Social Networks 💻
-## Contact
+## Contact 💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adanis369/)
 
@@ -32,6 +31,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+
 ### Tech Stack 🛠️
 ![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
