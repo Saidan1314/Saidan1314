@@ -1,10 +1,10 @@
 <img align="right" src="https://img.shields.io/badge/Focus-AI%20Engineer-1f425f?style=for-the-badge&logo=openai">
 
-## Un programador que estudia con esfuerzo — xSaidanMka <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="70" />
+## I’m just an ordinary person who works hard. — xSaidanMka <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="70" />
 
 <p align="center">
   <a href="https://github.com/Aurorp1g">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=What+the+mind+of+man+can+conceive+and+believe%2C%0Athe+mind+of+man+can+achieve+-+Napoleon+Hill;AI+Engineer+in+training+🤖;Discipline+%26+consistent+effort+💪;Building+focus%2C+logic+and+execution+daily+⚙️;Welcome+to+my+GitHub+🔥🚀">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=What+the+mind+of+man+can+conceive+and+believe%2C%0Athe+mind+of+man+can+achieve+;AI+Engineer+in+training+🤖;Discipline+%26+consistent+effort+💪;Building+focus%2C+logic+and+execution+daily+⚙️;Welcome+to+my+GitHub+🔥🚀">
   </a>
 </p>
 
