@@ -64,6 +64,9 @@
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=My-Heart&theme=github_dark_dimmed)](https://github.com/Aurorp1g/My-Heart)
 <br>
 -->
+
+### CV
+ -> Coming soon...
 ![footer](footer.png)
 ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 
