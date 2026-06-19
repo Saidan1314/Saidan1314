@@ -9,7 +9,9 @@
 </p>
 
 ### About me
-<div><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V1ZTZ5eWFhbnIxZTExYmF2Z3V6cTh5emJ4b3hjZHBzNDFmM2ptMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4PkFXkfTeEKqGBBsC/giphy.gif" width="300" /></div>
+<p align="right">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V1ZTZ5eWFhbnIxZTExYmF2Z3V6cTh5emJ4b3hjZHBzNDFmM2ptMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4PkFXkfTeEKqGBBsC/giphy.gif" width="350" />
+</p>
 
 - Hi everyone, I’m Saidan, from Escuela Superior de Cómputo (ESCOM), IPN – Mexico 🗻  
 - I am currently an Artificial Intelligence Engineering student 👨‍🎓  
