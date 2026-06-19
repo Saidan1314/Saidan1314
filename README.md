@@ -1,16 +1,58 @@
-## Hi there 👋
+<img align="right" src="https://img.shields.io/badge/Focus-AI%20Engineer-1f425f?style=for-the-badge&logo=openai">
 
-<!--
-**Saidan1314/Saidan1314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Un programador que estudia con esfuerzo — xSaidanMka <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="70" />
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Aurorp1g">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=What+the+mind+of+man+can+conceive+and+believe%2C%0Athe+mind+of+man+can+achieve+-+Napoleon+Hill;AI+Engineer+in+training+🤖;Discipline+%26+consistent+effort+💪;Building+focus%2C+logic+and+execution+daily+⚙️;Welcome+to+my+GitHub+🔥🚀">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### About me
+<div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
+
+- Hi everyone, I’m Saidan, from Escuela Superior de Cómputo (ESCOM), IPN – Mexico 🗻  
+- I am currently an Artificial Intelligence Engineering student 👨‍🎓  
+- I aim to help others by solving everyday problems through AI implementations that save time and resources by freelancing 👨‍💻  
+- I’m not only focused on the technical side, but also on developing communication and sales skills 🚀  
+- Welcome to my GitHub 🍧  
+
+### Social Networks 💻
+- Personal website 🌐
+  https://www.linkedin.com/in/adanis369/
+- Email:
+  adanisrael351@gmail.com
+### Tech Stack 🛠️
+![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
+![C](https://img.shields.io/badge/-C%E8%AF%AD%E8%A8%80-%2313c9ae?style=flat&logo=C&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
+![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css)
+![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=ffffff )
+![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=shell&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySQL&logoColor=ffffff )
+![GitHub](https://img.shields.io/badge/-GitHub-%2320232a?style=flat&logo=github )
+![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat&logo=linux&logoColor=000000 )
+![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=vscode&logoColor=white)
+
+
+### Relevant Projects <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
+ -> Coming soon...
+<!--  
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Yus_cipher&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Yus_cipher)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Sensitive_Data_System&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Sensitive_Data_System)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Happy_Birthday&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Happy_Birthday)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Heart-notes&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Heart-notes)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=My-Heart&theme=github_dark_dimmed)](https://github.com/Aurorp1g/My-Heart)
+<br>
 -->
+<div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Right_Side.gif" width="300" height="auto" /></div>
+
+![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
+![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
+
+-----
+Credits: [Aurorp1g](https://github.com/Aurorp1g)
+
+Last Edited on: 18/06/2026
