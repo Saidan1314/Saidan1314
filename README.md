@@ -1,6 +1,6 @@
 <img align="right" src="https://img.shields.io/badge/Focus-AI%20Engineer-1f425f?style=for-the-badge&logo=openai">
 
-## I’m just an ordinary person who works hard. — xSaidanMka <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="70" />
+## I’m just an ordinary person who works hard. — xSaidanMka [<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="70" />](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3d1cjAxbmFnZGx3aDBmbWR0Y29zN3N3c3Rzbm1nMzV3cnFzdXo1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif)
 
 <p align="center">
   <a href="https://github.com/Aurorp1g">
