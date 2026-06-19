@@ -23,14 +23,15 @@
 
 
 ### Social Networks 💻
-- LinkedIn 🌐
-  https://www.linkedin.com/in/adanis369/
-- Email:
-  adanisrael351@gmail.com
-- Personal Brand on YT:
-  Coming soon...
-- Personal Website:
-  Coming soon...
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adanis369/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adanisrael351@gmail.com)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 ### Tech Stack 🛠️
 ![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
