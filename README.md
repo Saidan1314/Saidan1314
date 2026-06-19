@@ -67,6 +67,8 @@
 
 ### CV
  -> Coming soon...
+
+ 
 -----
 
 ![footer](footer.png)
