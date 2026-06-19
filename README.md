@@ -15,11 +15,11 @@
 - I aim to help others by solving everyday problems through AI implementations 👨‍💻  
 - I’m also developing communication and sales skills 🚀  
 - C1 English Level  
-- Welcome to my GitHub 🍧  
-
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V1ZTZ5eWFhbnIxZTExYmF2Z3V6cTh5emJ4b3hjZHBzNDFmM2ptMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4PkFXkfTeEKqGBBsC/giphy.gif" width="350" />
+- Welcome to my GitHub 🍧
 
 
+
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V1ZTZ5eWFhbnIxZTExYmF2Z3V6cTh5emJ4b3hjZHBzNDFmM2ptMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4PkFXkfTeEKqGBBsC/giphy.gif" width="350"/>
 
 
 ## Contact 💻
@@ -54,7 +54,7 @@
 
 
 
-### Relevant Projects <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
+### Relevant Projects <picture style="margin-right: 10px;">
  -> Coming soon...
 <!--  
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Yus_cipher&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Yus_cipher)
