@@ -9,7 +9,7 @@
 </p>
 
 ### About me
-<div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
+<div><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V1ZTZ5eWFhbnIxZTExYmF2Z3V6cTh5emJ4b3hjZHBzNDFmM2ptMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4PkFXkfTeEKqGBBsC/giphy.gif" width="300" /></div>
 
 - Hi everyone, I’m Saidan, from Escuela Superior de Cómputo (ESCOM), IPN – Mexico 🗻  
 - I am currently an Artificial Intelligence Engineering student 👨‍🎓  
@@ -19,10 +19,14 @@
 - Welcome to my GitHub 🍧  
 
 ### Social Networks 💻
-- Personal website 🌐
+- LinkedIn 🌐
   https://www.linkedin.com/in/adanis369/
 - Email:
   adanisrael351@gmail.com
+- Personal Brand on YT:
+  Coming soon...
+- Personal Website:
+  Coming soon...
 ### Tech Stack 🛠️
 ![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
 ![C](https://img.shields.io/badge/-C%E8%AF%AD%E8%A8%80-%2313c9ae?style=flat&logo=C&logoColor=ffffff)
