@@ -14,7 +14,8 @@
 - Hi everyone, I’m Saidan, from Escuela Superior de Cómputo (ESCOM), IPN – Mexico 🗻  
 - I am currently an Artificial Intelligence Engineering student 👨‍🎓  
 - I aim to help others by solving everyday problems through AI implementations that save time and resources by freelancing 👨‍💻  
-- I’m not only focused on the technical side, but also on developing communication and sales skills 🚀  
+- I’m not only focused on the technical side, but also on developing communication and sales skills 🚀
+- C1 English Level
 - Welcome to my GitHub 🍧  
 
 ### Social Networks 💻
