@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=600&lines=Eres+fuego+en+invierno" alt="Quote animation" />
-
 <blockquote>
   <p><em>“Eres fuego en invierno”</em></p>
   <p><b>— @xSaidanMka</b></p>
@@ -98,6 +96,6 @@
 
 ---
 > [!Note]
-> Powered by the best: **twscraft** from UAEH | GameDev: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/twscraft)
+> Powered by the best: **twscraft** from UAEH ICBI | GameDev: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/twscraft)
 
 Last Edited on: 20/06/2026
