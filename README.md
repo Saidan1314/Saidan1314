@@ -77,7 +77,7 @@
  
 -----
 
-![footer](footer.png)
+![footer](images/footer.png)
 ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 
 -----
