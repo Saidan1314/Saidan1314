@@ -80,17 +80,7 @@
 ![footer](images/footer.png)
 <br/>
 <div align="center">
-  <table bgcolor="#000000" cellpadding="14" cellspacing="0">
-    <tr>
-      <td align="left">
-        <code>> terminal / profile.sh</code>
-        <br/><br/>
-        <img 
-          src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1500&color=A855F7&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Automation+Builder+%7C+Problem+Solver;Building+%40Armonik+%F0%9F%9A%80;ESCOM+IPN+%F0%9F%87%B2%F0%9F%87%BD;%22Work+hard+in+silence%2C+let+success+make+noise.%22;Freelancing+%E2%86%92+Agency+%E2%86%92+Startup"
-        />
-      </td>
-    </tr>
-  </table>
+<img src="images/armonik-terminal.svg" width="760"/></div>
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=wave&color=5B21B6&height=80&section=footer" width="100%"/>
   <br/>
