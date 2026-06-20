@@ -84,11 +84,12 @@
 <img src="images/armonik-terminal.svg" width="760"/></div>
   <br/>
   <br/>
+  
   ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 </div>
 
 ---
 > [!Note]
-> Powered by the best: xSaidanMka from ESCOM & CINVESTAV by I.P.N: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/twscraft)
+> Powered by the best: **twscraft** from UAEH | GameDev: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/twscraft)
 
 Last Edited on: 20/06/2026
