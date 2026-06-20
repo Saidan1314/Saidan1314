@@ -11,14 +11,14 @@
 <p align = "left">
 	<img src = "https://komarev.com/ghpvc/?username=Saidan1314&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
-### About me
 
-- Hi everyone, I’m Saidan, from ESCOM, IPN – Mexico 🗻  
-- I am currently an Artificial Intelligence Engineering student 👨‍🎓  
-- I aim to help others by solving everyday problems through AI implementations 👨‍💻  
-- I’m also developing communication and sales skills 🚀  
-- C1 English Level  
-- Welcome to my GitHub 🍧
+
+> ## _**About Me**_
+> - Hi everyone, I’m Saidan, from **ESCOM, IPN – Mexico** 🗻
+> - I am currently an Artificial Intelligence Engineering student 👨‍🎓  
+> - I aim to help others by solving everyday problems through AI implementations 👨‍💻 
+> - I’m also developing communication and sales skills 🚀  
+> - Welcome to my GitHub 🍧
 
 
 
