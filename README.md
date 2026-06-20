@@ -71,8 +71,8 @@
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> _**CV**_</b>
 
-- English: [CV_Adan_Arteaga[ENG].pdf](sha256:12d8cd8c1c5886aab872e7f81b7b3f287fa6b7f10bdb00cb8fb33cb02b6f44d3)
-- Spanish: [CV_Adan_Arteaga[ESP].pdf](sha256:67ea2802c9a33b04208b1023ffc1f099f2fe64cbc15c6b3ec890b87038f279f0)
+- English: [CV_Adan_Arteaga[ENG].pdf](https://github.com/Saidan1314/Saidan1314/releases/download/CV_v1.0/CV_Adan_Arteaga.ENG.pdf)
+- Spanish: [CV_Adan_Arteaga[ESP].pdf](https://github.com/Saidan1314/Saidan1314/releases/download/CV_v1.0/CV_Adan_Arteaga.ESP.pdf)
 
  
 -----
