@@ -86,8 +86,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=6B21A8&height=80&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=5B21B6&height=80&section=footer" width="100%"/>
 </div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding"/>
