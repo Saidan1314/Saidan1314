@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Aurorp1g">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=What+the+mind+of+man+can+conceive+and+believe%2C%0Athe+mind+of+man+can+achieve+;AI+Engineer+in+training+🤖;Discipline+%26+consistent+effort+💪;Building+focus%2C+logic+and+execution+daily+⚙️;Welcome+to+my+GitHub+🔥🚀">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=purple&size=25&center=true&vCenter=true&width=1100&height=40&lines=What+the+mind+of+man+can+conceive+and+believe%2C%0Athe+mind+of+man+can+achieve+;AI+Engineer+in+training+🤖;Discipline+%26+consistent+effort+💪;Building+focus%2C+logic+and+execution+daily+⚙️;Welcome+to+my+GitHub+🔥🚀">
   </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -14,8 +14,11 @@
 
 > [!IMPORTANT]
 > ## _**About Me**_
-> - Hi everyone, I'm Saidan, from **ESCOM, IPN – Mexico** 🗻
+> - **AI Engineering** @ ESCOM, IPN · 🇲🇽  🎓
 > - I am currently an Artificial Intelligence Engineering student 👨‍🎓
+> - Building **Armonik**
+> - ⚙️ Building **Armonik** — AI Automation
+> - 📈 Freelancing → Agency → Startup 
 > - I aim to help others by solving everyday problems through AI implementations 👨‍💻
 > - I'm also developing communication and sales skills 🚀
 > - Welcome to my GitHub 🍧
@@ -72,9 +75,24 @@
 - Español: [CV_Adan_ArteagaESP.pdf](https://github.com/Saidan1314/Saidan1314/releases/download/v1.0/CV_Adan_Arteaga.ESP.pdf)
 
  
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 ![footer](images/footer.png)
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1500&color=A855F7&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Automation+Builder+%7C+Problem+Solver;Building+%40Armonik+for+medical+clinics+%F0%9F%9A%80;ESCOM+IPN+%F0%9F%87%B2%F0%9F%87%BD;%22Work+hard+in+silence%2C+let+success+make+noise.%22;Freelancing+%E2%86%92+Agency+%E2%86%92+Startup" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=6B21A8&height=80&section=footer" width="100%"/>
+
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding"/>
+</div>
 ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 
 -----
