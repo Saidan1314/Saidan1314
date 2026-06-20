@@ -7,7 +7,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=What+the+mind+of+man+can+conceive+and+believe%2C%0Athe+mind+of+man+can+achieve+;AI+Engineer+in+training+🤖;Discipline+%26+consistent+effort+💪;Building+focus%2C+logic+and+execution+daily+⚙️;Welcome+to+my+GitHub+🔥🚀">
   </a>
 </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<p align = "left">
+	<img src = "https://komarev.com/ghpvc/?username=Saidan1314&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
 ### About me
 
 - Hi everyone, I’m Saidan, from ESCOM, IPN – Mexico 🗻  
@@ -22,7 +25,8 @@
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V1ZTZ5eWFhbnIxZTExYmF2Z3V6cTh5emJ4b3hjZHBzNDFmM2ptMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4PkFXkfTeEKqGBBsC/giphy.gif" width="350"/>
 
 
-## Contact 💻
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> _**Contact 💻**_</b>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adanis369/)
 
@@ -32,8 +36,8 @@
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> _**Tech Stack 🛠️**_</b>
 
-### Tech Stack 🛠️
 ![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
@@ -53,8 +57,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> _**Relevant Projects**_</b>
 
-### Relevant Projects <picture style="margin-right: 10px;">
  -> Coming soon...
 <!--  
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Yus_cipher&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Yus_cipher)
@@ -65,7 +69,8 @@
 <br>
 -->
 
-### CV
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> _**CV**_</b>
+
  -> Coming soon...
 
  
