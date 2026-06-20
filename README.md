@@ -1,5 +1,6 @@
 <img align="right" src="https://img.shields.io/badge/Focus-AI%20Engineer-1f425f?style=for-the-badge&logo=openai">
-
+<br/>
+<br/>
 <div align="center">
 
 <blockquote>
