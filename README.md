@@ -27,7 +27,7 @@
 > - Freelancing → Agency → Startup 📈 
 > - I aim to help others by solving everyday problems through AI implementations 👨‍💻
 > - I'm also developing communication and sales skills 🚀
-> - Welcome to my GitHub 🍧
+> - Welcome to my **GitHub** ✨
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V1ZTZ5eWFhbnIxZTExYmF2Z3V6cTh5emJ4b3hjZHBzNDFmM2ptMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4PkFXkfTeEKqGBBsC/giphy.gif" width="350"/>
 
