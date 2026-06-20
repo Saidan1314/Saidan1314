@@ -1,7 +1,15 @@
 <img align="right" src="https://img.shields.io/badge/Focus-AI%20Engineer-1f425f?style=for-the-badge&logo=openai">
 
-## I’m just an ordinary person who works hard. — xSaidanMka 
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=600&lines=Eres+fuego+en+invierno" alt="Quote animation" />
+
+<blockquote>
+  <p><em>“Eres fuego en invierno”</em></p>
+  <p><b>— @xSaidanMka</b></p>
+</blockquote>
+
+</div>
 <p align="center">
   <a href="https://github.com/Aurorp1g">
     <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=purple&size=25&center=true&vCenter=true&width=1100&height=40&lines=What+the+mind+of+man+can+conceive+and+believe%2C%0Athe+mind+of+man+can+achieve+;AI+Engineer+in+training+🤖;Discipline+%26+consistent+effort+💪;Building+focus%2C+logic+and+execution+daily+⚙️;Welcome+to+my+GitHub+🔥🚀">
