@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 430" width="760" height="430" role="img" aria-label="Terminal animada Armonik">
+<title>Armonik Terminal</title>
+<defs>
+  <linearGradient id="headerGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#a855f7" stop-opacity="0.10"/>
+    <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="shineGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#a855f7" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#c4b5fd" stop-opacity="0.10"/>
+    <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="blurSoft" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="6"/>
+  </filter>
+  <filter id="blurBlob" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="45"/>
+  </filter>
+  <clipPath id="outerClip">
+    <rect x="1" y="1" width="758" height="428" rx="18"/>
+  </clipPath>
+  <clipPath id="clipCmd1"><rect x="34" y="64" width="0" height="22"><animate attributeName="width" dur="9.6s" begin="0s" repeatCount="indefinite" keyTimes="0;0.0729;1" values="0;185;185" /></rect></clipPath>
+  <clipPath id="clipCmd5"><rect x="34" y="194" width="0" height="22"><animate attributeName="width" dur="9.6s" begin="0s" repeatCount="indefinite" keyTimes="0;0.25;0.3438;1" values="0;0;300;300" /></rect></clipPath>
+  <clipPath id="clipCmd7"><rect x="34" y="272" width="0" height="22"><animate attributeName="width" dur="9.6s" begin="0s" repeatCount="indefinite" keyTimes="0;0.4427;0.5052;1" values="0;0;180;180" /></rect></clipPath>
+  <clipPath id="clipTag1"><rect x="46" y="385" width="0" height="20"><animate attributeName="width" dur="14.0s" begin="0s" repeatCount="indefinite" keyTimes="0;0.0643;0.1786;0.2214;1" values="0;320;320;0;0" /></rect></clipPath>
+  <clipPath id="clipTag2"><rect x="46" y="385" width="0" height="20"><animate attributeName="width" dur="14.0s" begin="0s" repeatCount="indefinite" keyTimes="0;0.2429;0.3071;0.4214;0.4643;1" values="0;0;210;210;0;0" /></rect></clipPath>
+  <clipPath id="clipTag3"><rect x="46" y="385" width="0" height="20"><animate attributeName="width" dur="14.0s" begin="0s" repeatCount="indefinite" keyTimes="0;0.4857;0.55;0.6643;0.7071;1" values="0;0;160;160;0;0" /></rect></clipPath>
+  <clipPath id="clipTag4"><rect x="46" y="385" width="0" height="20"><animate attributeName="width" dur="14.0s" begin="0s" repeatCount="indefinite" keyTimes="0;0.7286;0.7929;0.9071;0.95;1" values="0;0;310;310;0;0" /></rect></clipPath>
+</defs>
+
+<!-- resplandor exterior (glow) -->
+<rect x="1" y="1" width="758" height="428" rx="18" fill="none" stroke="#a855f7" stroke-width="10" filter="url(#blurSoft)" opacity="0.2">
+  <animate attributeName="opacity" dur="3.5s" begin="0s" repeatCount="indefinite" keyTimes="0;0.5;1" values="0.15;0.4;0.15" />
+</rect>
+
+<!-- tarjeta base -->
+<rect x="1" y="1" width="758" height="428" rx="18" fill="#0a0a0f" stroke="#2b1147" stroke-width="1.5"/>
+
+<g clip-path="url(#outerClip)" font-family="'Fira Code','JetBrains Mono',Consolas,monospace">
+
+  <!-- blobs ambientales -->
+  <g filter="url(#blurBlob)">
+    <circle cx="100" cy="90" r="90" fill="#7c3aed" opacity="0.14"><animate attributeName="cx" dur="11s" begin="0s" repeatCount="indefinite" keyTimes="0;0.5;1" values="100;135;100" /></circle>
+    <circle cx="640" cy="330" r="100" fill="#6d28d9" opacity="0.12"><animate attributeName="cx" dur="13s" begin="0s" repeatCount="indefinite" keyTimes="0;0.5;1" values="640;600;640" /></circle>
+  </g>
+
+  <!-- header -->
+  <rect x="0" y="0" width="760" height="44" fill="url(#headerGrad)"/>
+  <line x1="0" y1="44" x2="760" y2="44" stroke="#a855f7" stroke-opacity="0.18"/>
+  <circle cx="22" cy="22" r="5" fill="#ff5f56"/>
+  <circle cx="40" cy="22" r="5" fill="#ffbd2e"/>
+  <circle cx="58" cy="22" r="5" fill="#27c93f"/>
+  <text x="84" y="27" font-size="11" letter-spacing="2.5" font-weight="600" fill="#8b5cf6">ARMONIK · ZSH · AUTOMATION</text>
+  <circle cx="726" cy="22" r="4" fill="#34d399"><animate attributeName="opacity" dur="1.4s" begin="0s" repeatCount="indefinite" keyTimes="0;0.5;1" values="1;0.25;1" /></circle>
+
+  <!-- footer band (tagline) -->
+  <rect x="0" y="378" width="760" height="52" fill="#0d0816"/>
+  <line x1="0" y1="378" x2="760" y2="378" stroke="#a855f7" stroke-opacity="0.15"/>
+
+  <!-- cuerpo de la terminal -->
+  <g>
+    <animate attributeName="opacity" dur="9.6s" begin="0s" repeatCount="indefinite" keyTimes="0;0.875;0.9271;1" values="1;1;0;0" />
+
+    <!-- L1: $ python agent.py -->
+    <g clip-path="url(#clipCmd1)">
+      <text x="34" y="80" font-size="15"><tspan fill="#c084fc">$</tspan><tspan fill="#ffffff"> python agent.py</tspan></text>
+    </g>
+
+    <!-- L2: Conectando a WhatsApp API... -->
+    <text x="50" y="106" font-size="14" fill="#6b7280">Conectando a WhatsApp API...<animate attributeName="opacity" dur="9.6s" begin="0s" repeatCount="indefinite" keyTimes="0;0.0885;0.1042;1" values="0;0;1;1" /></text>
+
+    <!-- L3: n8n workflow: ACTIVO -->
+    <text x="50" y="132" font-size="14" fill="#34d399">n8n workflow: <tspan font-weight="700">ACTIVO ✓</tspan><animate attributeName="opacity" dur="9.6s" begin="0s" repeatCount="indefinite" keyTimes="0;0.1354;0.151;1" values="0;0;1;1" /></text>
+
+    <!-- L4: Automatizacion en ejecucion... -->
+    <text x="50" y="158" font-size="14" fill="#34d399">Automatización en ejecución...<animate attributeName="opacity" dur="9.6s" begin="0s" repeatCount="indefinite" keyTimes="0;0.1719;0.1875;1" values="0;0;1;1" /></text>
+
+    <!-- L5: $ git commit -->
+    <g clip-path="url(#clipCmd5)">
+      <text x="34" y="210" font-size="15"><tspan fill="#c084fc">$</tspan><tspan fill="#ffffff"> git commit -m "ship it 🚀"</tspan></text>
+    </g>
+
+    <!-- L6: [main] 42 insertions -->
+    <text x="50" y="236" font-size="14" fill="#9ca3af">[main] 42 insertions<animate attributeName="opacity" dur="9.6s" begin="0s" repeatCount="indefinite" keyTimes="0;0.3646;0.3802;1" values="0;0;1;1" /></text>
+
+    <!-- L7: $ railway deploy -->
+    <g clip-path="url(#clipCmd7)">
+      <text x="34" y="288" font-size="15"><tspan fill="#c084fc">$</tspan><tspan fill="#ffffff"> railway deploy</tspan></text>
+    </g>
+
+    <!-- L8: Deploying armonik.app... -->
+    <text x="50" y="314" font-size="14" fill="#6b7280">Deploying armonik.app...<animate attributeName="opacity" dur="9.6s" begin="0s" repeatCount="indefinite" keyTimes="0;0.526;0.5417;1" values="0;0;1;1" /></text>
+
+    <!-- L9: DEPLOYED -->
+    <text x="50" y="340" font-size="16" font-weight="700" fill="#34d399">DEPLOYED ✓<animate attributeName="opacity" dur="9.6s" begin="0s" repeatCount="indefinite" keyTimes="0;0.5938;0.6146;1" values="0;0;1;1" /></text>
+
+    <!-- cursor parpadeante -->
+    <rect width="2" height="17" fill="#c4b5fd" x="34" y="66">
+      <animate attributeName="opacity" dur="9.6s" begin="0s" repeatCount="indefinite" keyTimes="0;0.0729;0.25;0.3438;0.4427;0.5052;1" values="1;0;1;0;1;0;0" calcMode="discrete" />
+      <animate attributeName="x" dur="9.6s" begin="0s" repeatCount="indefinite" keyTimes="0;0.0729;0.25;0.3438;0.4427;0.5052;1" values="34;219;34;334;34;214;214" />
+      <animate attributeName="y" dur="9.6s" begin="0s" repeatCount="indefinite" keyTimes="0;0.0729;0.25;0.3438;0.4427;0.5052;1" values="66;66;196;196;274;274;274" />
+    </rect>
+  </g>
+
+  <!-- tagline -->
+  <text x="24" y="400" font-size="14" fill="#a855f7">❯<animate attributeName="opacity" dur="2s" begin="0s" repeatCount="indefinite" keyTimes="0;0.5;1" values="1;0.55;1" /></text>
+  <g clip-path="url(#clipTag1)"><text x="46" y="400" font-size="14" fill="#d8d8e6">AI Engineer | Automation Builder</text></g>
+  <g clip-path="url(#clipTag2)"><text x="46" y="400" font-size="14" fill="#d8d8e6">Building @Armonik 🚀</text></g>
+  <g clip-path="url(#clipTag3)"><text x="46" y="400" font-size="14" fill="#d8d8e6">ESCOM IPN 🇲🇽</text></g>
+  <g clip-path="url(#clipTag4)"><text x="46" y="400" font-size="14" fill="#d8d8e6">Freelancing → Agency → Startup</text></g>
+
+  <!-- barrido de brillo -->
+  <g transform="translate(-260,0)">
+    <animateTransform attributeName="transform" dur="6s" begin="0s" repeatCount="indefinite" keyTimes="0;0.05;0.55;1" values="-260,0;-260,0;900,0;900,0" type="translate"/>
+    <rect x="0" y="0" width="150" height="430" fill="url(#shineGrad)"/>
+  </g>
+
+</g>
+</svg>
