@@ -79,54 +79,26 @@
 
 ![footer](images/footer.png)
 <br/>
-
 <div align="center">
-
-<div align="center">
-
-<table style="
-  background-color:#000000;
-  border:1px solid #2a2a2a;
-  border-radius:12px;
-  padding:14px;
-  box-shadow: 0 0 18px rgba(168,85,247,0.25);
-">
-
-<tr>
-<td>
-
-<div style="
-  font-family: 'Fira Code', monospace;
-  color:#A855F7;
-  padding:6px 10px;
-  border-bottom:1px solid #2a2a2a;
-  margin-bottom:10px;
-  text-align:left;
-">
-> terminal / profile.sh
-</div>
-
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1500&color=A855F7&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Automation+Builder+%7C+Problem+Solver;Building+%40Armonik+🚀;ESCOM+IPN+🇲🇽;%22Work+hard+in+silence%2C+let+success+make+noise.%22;Freelancing+%E2%86%92+Agency+%E2%86%92+Startup"
-/>
-
-</td>
-</tr>
-
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=5B21B6&height=80&section=footer" width="100%"/>
-</div>
-<div align="center">
+  <table bgcolor="#000000" cellpadding="14" cellspacing="0">
+    <tr>
+      <td align="left">
+        <code>> terminal / profile.sh</code>
+        <br/><br/>
+        <img 
+          src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1500&color=A855F7&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Automation+Builder+%7C+Problem+Solver;Building+%40Armonik+%F0%9F%9A%80;ESCOM+IPN+%F0%9F%87%B2%F0%9F%87%BD;%22Work+hard+in+silence%2C+let+success+make+noise.%22;Freelancing+%E2%86%92+Agency+%E2%86%92+Startup"
+        />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=5B21B6&height=80&section=footer" width="100%"/>
+  <br/>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding"/>
+  <br/>
+
+  ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 </div>
 
-![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
-
------
-
+---
 Last Edited on: 20/06/2026
