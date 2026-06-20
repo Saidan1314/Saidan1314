@@ -13,13 +13,22 @@
 </p>
 
 
-> ## _**About Me**_
-> - Hi everyone, I’m Saidan, from **ESCOM, IPN – Mexico** 🗻
-> - I am currently an Artificial Intelligence Engineering student 👨‍🎓  
-> - I aim to help others by solving everyday problems through AI implementations 👨‍💻 
-> - I’m also developing communication and sales skills 🚀  
-> - Welcome to my GitHub 🍧
+<table>
+<tr>
+<td bgcolor="#7B2FBE" width="5"></td>
+<td>
 
+$${\color{#7B2FBE}\textit{\textbf{About\ Me}}}$$
+
+- Hi everyone, I'm Saidan, from **ESCOM, IPN – Mexico** 🗻  
+- I am currently an Artificial Intelligence Engineering student 👨‍🎓  
+- I aim to help others by solving everyday problems through AI implementations 👨‍💻  
+- I'm also developing communication and sales skills 🚀  
+- Welcome to my GitHub 🍧
+
+</td>
+</tr>
+</table>
 
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V1ZTZ5eWFhbnIxZTExYmF2Z3V6cTh5emJ4b3hjZHBzNDFmM2ptMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4PkFXkfTeEKqGBBsC/giphy.gif" width="350"/>
@@ -81,4 +90,4 @@
 
 -----
 
-Last Edited on: 18/06/2026
+Last Edited on: 20/06/2026
