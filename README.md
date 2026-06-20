@@ -82,7 +82,40 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1500&color=A855F7&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Automation+Builder+%7C+Problem+Solver;Building+%40Armonik+for+medical+clinics+%F0%9F%9A%80;ESCOM+IPN+%F0%9F%87%B2%F0%9F%87%BD;%22Work+hard+in+silence%2C+let+success+make+noise.%22;Freelancing+%E2%86%92+Agency+%E2%86%92+Startup" alt="Typing SVG"/>
+<div align="center">
+
+<table style="
+  background-color:#000000;
+  border:1px solid #2a2a2a;
+  border-radius:12px;
+  padding:14px;
+  box-shadow: 0 0 18px rgba(168,85,247,0.25);
+">
+
+<tr>
+<td>
+
+<div style="
+  font-family: 'Fira Code', monospace;
+  color:#A855F7;
+  padding:6px 10px;
+  border-bottom:1px solid #2a2a2a;
+  margin-bottom:10px;
+  text-align:left;
+">
+> terminal / profile.sh
+</div>
+
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1500&color=A855F7&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Automation+Builder+%7C+Problem+Solver;Building+%40Armonik+🚀;ESCOM+IPN+🇲🇽;%22Work+hard+in+silence%2C+let+success+make+noise.%22;Freelancing+%E2%86%92+Agency+%E2%86%92+Startup"
+/>
+
+</td>
+</tr>
+
+</table>
+
+</div>
 
 <br/>
 
