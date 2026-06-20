@@ -16,9 +16,8 @@
 > ## _**About Me**_
 > - **AI Engineering** @ ESCOM, IPN · 🇲🇽  🎓
 > - I am currently an Artificial Intelligence Engineering student 👨‍🎓
-> - Building **Armonik**
-> - ⚙️ Building **Armonik** — AI Automation
-> - 📈 Freelancing → Agency → Startup 
+> - Building **Armonik** — AI Automation ⚙️ 
+> - Freelancing → Agency → Startup 📈 
 > - I aim to help others by solving everyday problems through AI implementations 👨‍💻
 > - I'm also developing communication and sales skills 🚀
 > - Welcome to my GitHub 🍧
