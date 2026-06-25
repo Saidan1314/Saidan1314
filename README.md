@@ -122,7 +122,7 @@
 <div align="center">
 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  **Relevant Projects**
+  <strong>Projects</strong>
 
   <p>→ Coming soon...</p>
   <!--
@@ -142,7 +142,7 @@
 <div align="center">
 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  <b>_**CV**_</b>
+  <strong>CV</strong>
 
   <p>
     - English: <a href="https://github.com/Saidan1314/Saidan1314/releases/download/v1.0/CV_Adan_Arteaga.ENG.pdf">CV_Adan_ArteagaENG.pdf</a>
