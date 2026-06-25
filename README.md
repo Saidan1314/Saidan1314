@@ -35,7 +35,7 @@
 <div align="center">
 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-  <b> _**Contact**_💻</b>
+  <b> _**Contact**_💻 </b>
 
   <hr style="border: 1px solid #21262d; width: 80%; margin: 12px auto;">
 
@@ -55,7 +55,8 @@
   </p>
 
 </div>
-
+<br>
+<br>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> _**Tech Stack 🛠️**_</b>
 
 ![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
