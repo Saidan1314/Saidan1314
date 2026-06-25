@@ -68,7 +68,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 <div align="center" style="max-width: 900px; margin: 0 auto;">
@@ -122,7 +122,7 @@
 <div align="center">
 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  <b>_**Relevant Projects**_</b>
+  **Relevant Projects**
 
   <p>→ Coming soon...</p>
   <!--
