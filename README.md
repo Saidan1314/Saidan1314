@@ -144,7 +144,7 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
   <strong>CV</strong>
 <br>
-
+<br>
   <p align="center">
   <a href="https://github.com/Saidan1314/Saidan1314/releases/download/v1.0/CV_Adan_Arteaga.ENG.pdf">
     <img src="https://img.shields.io/badge/CV-English-2D9CDB?style=for-the-badge&logo=github&logoColor=white" alt="CV_Adán_ArteagaENG"/>
