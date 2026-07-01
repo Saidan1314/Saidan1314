@@ -118,7 +118,7 @@
   <p align="center">
   <a href="https://github.com/Saidan1314/Saidan1314/releases/download/v1.0/CV_Adan_Arteaga.ENG.pdf"><img height="34" src="https://img.shields.io/badge/Resume-English-2563EB?style=flat-square&logo=readme&logoColor=white" alt="Resume English"></a>
   &nbsp;
-  <a href="https://github.com/Saidan1314/Saidan1314/releases/download/v1.0/CV_Adan_Arteaga.ESP.pdf"><img height="34" src="https://img.shields.io/badge/CV-Spanish-7C3AED?style=flat-square&logo=readme&logoColor=white" alt="CV Spanish"></a>
+  <a href="https://github.com/Saidan1314/Saidan1314/releases/download/v1.0/CV_Adan_Arteaga.ESP.pdf"><img height="34" src="https://img.shields.io/badge/CV-Spanish-7C3AED?style=flat-square&logo=readme&logoColor=white" alt="CV Español"></a>
 </p>
 
 
