@@ -140,7 +140,7 @@
  <p align="center">
   <a href="https://www.linkedin.com/in/adanis369/"><img height="40" src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;
-  <a href="mailto:adanisrael351@gmail.com"><img height="40" src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adanisrael351@gmail.com"><img height="40" src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   &nbsp;
   <a href="#"><img height="40" src="https://img.shields.io/badge/YouTube-111827?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
   &nbsp;
