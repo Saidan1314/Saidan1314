@@ -109,15 +109,22 @@
   <strong>CV</strong>
 <br>
 <br>
+
+
+
+
+
+
   <p align="center">
-  <a href="https://github.com/Saidan1314/Saidan1314/releases/download/v1.0/CV_Adan_Arteaga.ENG.pdf">
-    <img src="https://img.shields.io/badge/CV-English-2D9CDB?style=for-the-badge&logo=github&logoColor=white" alt="CV_Adán_ArteagaENG"/>
-  </a>
+  <a href="https://github.com/Saidan1314/Saidan1314/releases/download/v1.0/CV_Adan_Arteaga.ENG.pdf"><img height="34" src="https://img.shields.io/badge/Resume-English-2563EB?style=flat-square&logo=readme&logoColor=white" alt="Resume English"></a>
   &nbsp;
-  <a href="https://github.com/Saidan1314/Saidan1314/releases/download/v1.0/CV_Adan_Arteaga.ESP.pdf">
-    <img src="https://img.shields.io/badge/CV-Español-EB5757?style=for-the-badge&logo=github&logoColor=white" alt="CV_Adán_ArteagaESP"/>
-  </a>
+  <a href="https://github.com/Saidan1314/Saidan1314/releases/download/v1.0/CV_Adan_Arteaga.ESP.pdf"><img height="34" src="https://img.shields.io/badge/CV-Spanish-7C3AED?style=flat-square&logo=readme&logoColor=white" alt="CV Spanish"></a>
 </p>
+
+
+
+
+
 
 </div>
 <div align="center" style="border: 2px solid #30363d; border-radius: 15px; padding: 25px 20px 20px 20px; background-color: #0d1117; max-width: 750px; margin: 0 auto;">
@@ -131,13 +138,13 @@
 
 
  <p align="center">
-  <a href="https://www.linkedin.com/in/adanis369/"><img height="32" src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/adanis369/"><img height="40" src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;
-  <a href="mailto:adanisrael351@gmail.com"><img height="32" src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:adanisrael351@gmail.com"><img height="40" src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   &nbsp;
-  <a href="#"><img height="32" src="https://img.shields.io/badge/YouTube-111827?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="#"><img height="40" src="https://img.shields.io/badge/YouTube-111827?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
   &nbsp;
-  <a href="#"><img height="32" src="https://img.shields.io/badge/Website-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="#"><img height="40" src="https://img.shields.io/badge/Website-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
 </p>
 
 
