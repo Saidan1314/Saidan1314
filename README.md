@@ -42,28 +42,6 @@
 <br>
 
 <!-- ═══════════════════ CONTACT ═══════════════════ -->
-<div align="center" style="border: 2px solid #30363d; border-radius: 15px; padding: 25px 20px 20px 20px; background-color: #0d1117; max-width: 750px; margin: 0 auto;">
-
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Contact** 💻
-
-  <hr style="border: 1px solid #21262d; width: 80%; margin: 15px auto;">
-
-  <p>
-    <a href="https://www.linkedin.com/in/adanis369/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:adanisrael351@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-    </a>
-  </p>
-
-</div>
 
 <br>
 
@@ -141,6 +119,28 @@
     <img src="https://img.shields.io/badge/CV-Español-EB5757?style=for-the-badge&logo=github&logoColor=white" alt="CV_Adán_ArteagaESP"/>
   </a>
 </p>
+
+</div>
+<div align="center" style="border: 2px solid #30363d; border-radius: 15px; padding: 25px 20px 20px 20px; background-color: #0d1117; max-width: 750px; margin: 0 auto;">
+
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Contact** 💻
+
+  <hr style="border: 1px solid #21262d; width: 80%; margin: 15px auto;">
+
+  <p>
+    <a href="https://www.linkedin.com/in/adanis369/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:adanisrael351@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+    </a>
+  </p>
 
 </div>
 
