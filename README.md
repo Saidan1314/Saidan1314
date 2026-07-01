@@ -5,8 +5,7 @@
 <div align="center">
 
 <blockquote>
-  <p><em>“Eres fuego en invierno”</em></p>
-  <p><b>— @xSaidanMka</b></p>
+  <p><em>> Building AI automation systems, backend tools, and algorithmic solutions.</em></p>
 </blockquote>
 
 </div>
@@ -28,7 +27,7 @@
 > - **AI Engineering** @ ESCOM, IPN · 🇲🇽  🎓
 > - I am currently an Artificial Intelligence Engineering student 👨‍🎓
 > - Building **Armonik** — AI Automation ⚙️ 
-> - Freelancing → Agency → Startup 📈 
+> - - Building toward: AI automation projects → freelance systems → scalable products. 📈 
 > - I aim to help others by solving everyday problems through AI implementations 👨‍💻
 > - I'm also developing communication and sales skills 🚀
 > - Welcome to my **GitHub** ✨
@@ -107,7 +106,11 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
   <strong>Projects</strong>
 
-  <p>→ Coming soon...</p>
+  ## Projects in Development
+
+- **AI Automation Builder** — Natural-language workflow generator using Python, FastAPI, n8n, and OpenAI API.
+- **RAG Knowledge Assistant** — Retrieval-based assistant for document Q&A and structured knowledge search.
+- **AI workflow generator** — A system designed to generate and structure AI-powered automation workflows from natural-language requests using Python, FastAPI, n8n, and the OpenAI API.
   <!--
   [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Yus_cipher&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Yus_cipher)
   [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Sensitive_Data_System&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Sensitive_Data_System)
