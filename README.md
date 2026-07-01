@@ -160,6 +160,6 @@
 ---
 
 > [!Note]
-> Powered by the best: **twscraft** from UAEH ICBI | GameDev: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/twscraft)
+> Powered by: **twscraft** from UAEH ICBI | GameDev: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/twscraft)
 
 Last Edited on: 30/06/2026
