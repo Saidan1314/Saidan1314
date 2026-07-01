@@ -51,6 +51,7 @@
   <strong>Tech Stack</strong> 🛠️
 
 <br>
+<br>
   <!-- AI Engineering & Automation -->
   <p><strong>⚡ AI Engineering & Automation</strong></p>
   <p>
@@ -124,7 +125,7 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <strong>Contact</strong> 💻
 
   <br>
-
+<br>
   <p>
     <a href="https://www.linkedin.com/in/adanis369/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
