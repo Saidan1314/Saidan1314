@@ -126,12 +126,20 @@
 
   <br>
 <br>
+
+
+
+
   <p align="center">
-  <a href="https://www.linkedin.com/in/adanis369/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:adanisrael351@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Website-111827?style=flat&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/adanis369/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:adanisrael351@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-111827?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Website-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
 </p>
+
+
+
+
 
 </div>
 
