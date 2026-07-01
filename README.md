@@ -130,11 +130,14 @@
 
 
 
-  <p align="center">
-  <a href="https://www.linkedin.com/in/adanis369/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:adanisrael351@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-111827?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Website-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
+ <p align="center">
+  <a href="https://www.linkedin.com/in/adanis369/"><img height="32" src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:adanisrael351@gmail.com"><img height="32" src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  &nbsp;
+  <a href="#"><img height="32" src="https://img.shields.io/badge/YouTube-111827?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+  &nbsp;
+  <a href="#"><img height="32" src="https://img.shields.io/badge/Website-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
 </p>
 
 
