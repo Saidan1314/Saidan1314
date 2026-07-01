@@ -41,9 +41,7 @@
 
 <br>
 
-<!-- ═══════════════════ CONTACT ═══════════════════ -->
 
-<br>
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 <div align="center" style="max-width: 900px; margin: 0 auto;">
@@ -52,7 +50,7 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> 
   <strong>Tech Stack</strong> 🛠️
 
-
+<br>
   <!-- AI Engineering & Automation -->
   <p><strong>⚡ AI Engineering & Automation</strong></p>
   <p>
@@ -123,9 +121,9 @@
 </div>
 <div align="center" style="border: 2px solid #30363d; border-radius: 15px; padding: 25px 20px 20px 20px; background-color: #0d1117; max-width: 750px; margin: 0 auto;">
 <hr style="border: 1px solid #21262d; width: 80%; margin: 15px auto;">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Contact** 💻
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <strong>Contact</strong> 💻
 
-  
+  <br>
 
   <p>
     <a href="https://www.linkedin.com/in/adanis369/">
